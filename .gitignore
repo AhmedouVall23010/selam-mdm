@@ -1,5 +1,5 @@
 # maven target dir
-target
+# target
 
 # idea 
 *.iml
@@ -25,7 +25,7 @@ server/Dockerfile
 server/context.xml
 server/docker-compose.yml
 server/src/main/resources/docker/base/Dockerfile
-server/build.properties
+# server/build.properties
 
 # Backup copies
 server/pom.xml.bak
